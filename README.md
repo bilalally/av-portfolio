@@ -1,8 +1,4 @@
-# Portfolio example
-
-This is an example portfolio.
-
-It is a work in progress and will be updated week by week.
+# Portfolio
 
 To install, run:
 
